@@ -1,0 +1,2 @@
+# CommunityInformationForAndroid
+智慧社区信息发布APP应用程序集房产信息、二手市场、农场信息为一体，为用户提供一个线上线下紧密结合的社区平台。
