@@ -1,0 +1,11 @@
+程序开发工具：eclipse 、AndroidStudio
+开发语言：java  (使用maven构建工程,故eclipse需要自带maven或自行安装)
+数据库：mysql （工程中默认密码设置为12345）
+数据库工具：sqlyog 或者 Navicat 
+使用框架：spring boot框架 + mybatis plus框架 
+
+项目采用混合开发。
+
+项目分为前后台：
+	部署成功后后台网站地址：http://localhost
+	部署成功后前台网站地址：http://localhost/protal/index
